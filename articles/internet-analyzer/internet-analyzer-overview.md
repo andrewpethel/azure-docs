@@ -11,6 +11,9 @@ ms.date: 10/16/2019
 ms.author: kumud
 
 ---
+[!IMPORTANT]
+Thank you for your interest in Internet Analyzer. Our team is redesigning a new approach to empower our customers with insight into their network traffic. As our redesign discussions continue, deprecation of this tool is in progress. Our team will no longer be onboarding new customers via Internet Analyzer and existing customers can no longer modify endpoints via Internet Analyzer. The ETA for complete decommissioning is September, 2023. Until then, this tool will no longer be operable. We appreciate your understanding and look forward to offering a better tool in the future (TBD).
+
 # What is Internet Analyzer? (Preview)
 
 Internet Analyzer is a client-side measurement platform to test how networking infrastructure changes impact your customers’ performance. Whether you’re migrating from on-premises to Azure or evaluating a new Azure service, Internet Analyzer allows you to learn from your users’ data and Microsoft’s rich analytics to better understand and optimize your network architecture with Azure—before you migrate.
